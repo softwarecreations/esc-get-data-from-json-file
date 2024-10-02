@@ -14,8 +14,14 @@
     "url": "git+https://github.com/softwarecreations/esc-get-data-from-json-file.git"
   },
   "keywords": [
-    "minimal-dependencies",
-    "simple"
+    "no dependencies",
+    "JSON from file",
+    "read JSON from file",
+    "simple",
+    "default data",
+    "error handling",
+    "shell script",
+    "NPM module"
   ],
   "author": "softwarecreations",
   "license": "MIT",
