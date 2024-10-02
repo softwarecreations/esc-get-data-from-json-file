@@ -1,0 +1,26 @@
+{
+  "name": "esc-get-data-from-json-file",
+  "version": "0.1.0",
+  "description": "Get data from JSON file with helpful console.error messages on error, then: exit, throw or return default data.",
+  "main": "main.mjs",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/softwarecreations/esc-get-data-from-json-file.git"
+  },
+  "keywords": [
+    "minimal-dependencies",
+    "simple"
+  ],
+  "author": "softwarecreations",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/softwarecreations/esc-get-data-from-json-file/issues"
+  },
+  "homepage": "https://github.com/softwarecreations/esc-get-data-from-json-file#readme"
+}
