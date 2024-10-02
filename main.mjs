@@ -1,5 +1,7 @@
 'use strict';
 
+import fs from 'fs';
+
 export const getDataFromJsonFile = ({ label, filePath, onError='exit' }) => { // onError can also be null or {} or [] or whatever you want { foo:1, bar:2, baz:null, qux:[1,2,3] }
 	try {
     const json = fs.readFileSync(filePath, 'utf8');

@@ -1,6 +1,6 @@
 {
   "name": "esc-get-data-from-json-file",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Get data from JSON file with helpful console.error messages on error, then: exit, throw or return default data.",
   "main": "main.mjs",
   "dependencies": {
